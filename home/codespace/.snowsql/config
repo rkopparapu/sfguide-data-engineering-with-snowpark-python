@@ -1,0 +1,7 @@
+[connections.dev]
+accountname = rtb90013.prod3.us-west-2.aws
+username = rkopparapu
+password = "Aaru2222@"
+rolename = HOL_ROLE
+warehousename = HOL_WH
+dbname = HOL_DB
